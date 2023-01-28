@@ -31,6 +31,7 @@ https://www.youtube.com/watch?v=Rea2AjMgZXA
 > A clone of buffer
 
 ** Hello world ** is a greeting app
+link to backend https://github.com/Kamba56/hello-rails-back-end
 
 ## 🛠 Built With <a name="built-with"></a>
 
