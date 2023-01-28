@@ -25,11 +25,12 @@
 <!-- PROJECT DESCRIPTION -->
 https://www.youtube.com/watch?v=Rea2AjMgZXA
 
-# 📖 Kamba Mall <a name="about-project"></a>
+
+# 📖 Hello WOrld <a name="about-project"></a>
 
 > A clone of buffer
 
-** Kamba mall ** is a rails project that displays various stores available in a mall and the list of items available in wach store
+** Hello world ** is a greeting app
 
 ## 🛠 Built With <a name="built-with"></a>
 
